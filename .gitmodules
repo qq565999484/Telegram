@@ -12,7 +12,7 @@
 	url = https://github.com/LMDB/lmdb.git
 [submodule "submodules/elements"]
 	path = submodules/elements
-	url = git@bitbucket.org:iakovlevpeterp/elements.git
+	url = https://bitbucket.org/iakovlevpeterp/elements.git
 [submodule "thirdparty/pop"]
 	path = thirdparty/pop
 	url = https://github.com/facebook/pop.git
